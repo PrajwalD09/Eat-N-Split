@@ -29,7 +29,3 @@ This is a simple React application that allows you to manage your friends list, 
 - CSS
 - HTML
 
-## Screenshots
-
-![App Screenshot 1](/screenshots/screenshot1.png)
-![App Screenshot 2](/screenshots/screenshot2.png)
